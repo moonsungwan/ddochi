@@ -34,6 +34,7 @@
 		<h2>branch editor</h2>
 		<h2>마마무</h2>
 		<h2>git Push</h2>
+		수정
 	</div>
 </body>
 </html>
