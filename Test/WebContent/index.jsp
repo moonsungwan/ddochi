@@ -33,7 +33,7 @@
 		<h2>master edit</h2>
 		<h2>branch editor</h2>
 		<h2>마마무</h2>
-		<h2>third push</h2>
+		<h2>git Push</h2>
 	</div>
 </body>
 </html>
