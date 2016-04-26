@@ -27,7 +27,9 @@
 	<input type="text" name="count" id="c">
 	
 	<input type="button" id="d1">
-	<div id="r1">
+	<div id="r1"></div>
+	<div id="r2">
+		<h2>하이하이하이</h2>
 	</div>
 </body>
 </html>
